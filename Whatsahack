@@ -1,2 +1,0 @@
-- name: Repository Visibility SMS Alert
-  uses: bitoiu/repo-visibility-alert-action@v0.1
